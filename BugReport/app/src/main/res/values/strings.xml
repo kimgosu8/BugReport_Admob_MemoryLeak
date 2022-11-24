@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BugReport</string>
+    <string name="Intro_Access">Accessibility</string>
+    <string name="Intro_Access_Exp">Process for gaining accessibility right. There should be the right for achieving the set-up touch automatically. This application does not utilize other accessibility functions except touch and swipe.</string>
+    <string name="Intro_Click">← Click</string>
+    <string name="accessibility_description">Accessibility authority is needed for touching &amp; clicking.\nThe authority will not be used for other purposes except touching(swipe) &amp; clicking.</string>
+</resources>
